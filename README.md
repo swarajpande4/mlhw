@@ -8,8 +8,6 @@ This repository contains notebooks on the following datasets :
 
 These datasets being so famous amongst beginners, they are regarded as "Hello World! programs" when it comes to Data Science and Machine Learning. 
 
-<br>
-
 ## References
 - [Kaggle](https://www.kaggle.com) 
 - [3Blue1Brown's Youtube series on Neural Networks](https://youtu.be/aircAruvnKk) 
